@@ -76,8 +76,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "https://cdn.prod.website-files.com/600b2a653e800f6ea70d169a/600b2a653e800fe6e80d16f0_Treasury_Prime-Logo.svg",
+    "dark": "https://cdn.prod.website-files.com/600b2a653e800f6ea70d169a/600b2a653e800fe6e80d16f0_Treasury_Prime-Logo.svg"
   },
   "navbar": {
     "links": [
